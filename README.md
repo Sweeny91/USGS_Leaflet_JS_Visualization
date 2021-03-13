@@ -13,7 +13,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ### Task Lists
 
-1. **Get your data set**
+1. **Get the GeoJSON Data**
 
    ![3-Data](Images/3-Data.png)
 
@@ -31,8 +31,8 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 
 # Deliverables:
-- The index.html page is the page to be deployed to run the script
-- The static/js/logic.js file contains all the logic used to complete the tasks mentioned above in the "Given Instructions" above.
+- The index.html page is the main script to be ran for analysis
+- The static/js/logic.js file contains all the necessary logic used to complete the tasks mentioned in the "Given Instructions" section above.
 - The static/css/styles.css files contains the styling and legend logic necessary for aethstetics and readability purposes.
 - A sample picture of what the deplpoyed page should look like is found below! 
 
